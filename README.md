@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Redux project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Here](https://project-with-redux.netlify.app/).
 
 ## Available Scripts
 
