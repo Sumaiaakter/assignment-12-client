@@ -23,7 +23,7 @@ const ProductListing = () => {
     console.log("products:", products);
     return (
         <div className='container'>
-            <h2>Product Listing</h2>
+
             <ProductComponent></ProductComponent>
         </div>
     );

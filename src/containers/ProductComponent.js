@@ -8,7 +8,7 @@ const ProductComponent = () => {
     // const { id, title } = products[0];
     return (
         <div className='container'>
-            <h2>Product Component</h2>
+            <h2>All Product </h2>
             <Container>
                 <Row>
 
